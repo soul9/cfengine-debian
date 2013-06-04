@@ -8,7 +8,6 @@ override_dh_auto_configure:
 	dh_autoreconf
 	./configure --disable-shared \
 			--with-sql=no \
-			--enable-docs=all \
 			CFLAGS="$(CFLAGS)" LDFLAGS="-Wl,-z,defs"
 
 override_dh_auto_test:
