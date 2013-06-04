@@ -1,0 +1,16 @@
+var/cfengine/bin/cf-agent usr/sbin/cf-agent
+var/cfengine/bin/cf-execd usr/sbin/cf-execd
+var/cfengine/bin/cf-key usr/sbin/cf-key
+var/cfengine/bin/cf-monitord usr/sbin/cf-monitord
+var/cfengine/bin/cf-promises usr/sbin/cf-promises
+var/cfengine/bin/cf-report usr/sbin/cf-report
+var/cfengine/bin/cf-runagent usr/sbin/cf-runagent
+var/cfengine/bin/cf-serverd usr/sbin/cf-serverd
+var/cfengine/share/man/man8/cf-agent.8 usr/share/man/man8/cf-agent.8
+var/cfengine/share/man/man8/cf-execd.8 usr/share/man/man8/cf-execd.8
+var/cfengine/share/man/man8/cf-key.8 usr/share/man/man8/cf-key.8
+var/cfengine/share/man/man8/cf-monitord.8 usr/share/man/man8/cf-monitord.8
+var/cfengine/share/man/man8/cf-promises.8 usr/share/man/man8/cf-promises.8
+var/cfengine/share/man/man8/cf-report.8 usr/share/man/man8/cf-report.8
+var/cfengine/share/man/man8/cf-runagent.8 usr/share/man/man8/cf-runagent.8
+var/cfengine/share/man/man8/cf-serverd.8 usr/share/man/man8/cf-serverd.8

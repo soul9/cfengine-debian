@@ -1,0 +1,15 @@
+Document: cfengine3
+Title: cfengine3 manual
+Author: Mark Burgess
+Abstract: The documentation for cfengine3, a tool for configuring and
+ maintaining network machines
+Section: System/Administration
+
+Format: HTML
+Index: /var/cfengine/share/doc/html/
+Files: /var/cfengine/share/doc/html/*
+
+Format: PDF
+Index: /var/cfengine/share/doc/pdf/
+Files: /var/cfengine/share/doc/pdf/*
+
